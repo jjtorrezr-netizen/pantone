@@ -1,0 +1,7 @@
+{
+  "name": "Pantone Extractor AI",
+  "description": "Sube una imagen y detecta automáticamente la paleta de colores con sus equivalencias Pantone utilizando Inteligencia Artificial.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
